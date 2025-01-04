@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarefa3.Application/1.0.0": {
+        "dependencies": {
+          "Tarefa3.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Tarefa3.Application.dll": {}
+        }
+      },
+      "Tarefa3.Domain/1.0.0": {
+        "runtime": {
+          "Tarefa3.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarefa3.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tarefa3.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

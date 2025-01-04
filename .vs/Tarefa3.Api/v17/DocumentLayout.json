@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{972BC634-AE49-449D-9DD0-86B5865CA79B}|Tarefa3.Api\\Tarefa3.Api.csproj|c:\\users\\fezer\\onedrive\\ambiente de trabalho\\linguagem c\\tarefa3.api\\tarefa3.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972BC634-AE49-449D-9DD0-86B5865CA79B}|Tarefa3.Api\\Tarefa3.Api.csproj|solutionrelative:tarefa3.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972BC634-AE49-449D-9DD0-86B5865CA79B}|Tarefa3.Api\\Tarefa3.Api.csproj|c:\\users\\fezer\\onedrive\\ambiente de trabalho\\linguagem c\\tarefa3.api\\tarefa3.api\\controllers\\nomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972BC634-AE49-449D-9DD0-86B5865CA79B}|Tarefa3.Api\\Tarefa3.Api.csproj|solutionrelative:tarefa3.api\\controllers\\nomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67267E3D-F73C-4C7C-B609-E8467E3F2723}|Tarefa3.Application\\Tarefa3.Application.csproj|c:\\users\\fezer\\onedrive\\ambiente de trabalho\\linguagem c\\tarefa3.api\\tarefa3.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67267E3D-F73C-4C7C-B609-E8467E3F2723}|Tarefa3.Application\\Tarefa3.Application.csproj|solutionrelative:tarefa3.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67267E3D-F73C-4C7C-B609-E8467E3F2723}|Tarefa3.Application\\Tarefa3.Application.csproj|c:\\users\\fezer\\onedrive\\ambiente de trabalho\\linguagem c\\tarefa3.api\\tarefa3.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67267E3D-F73C-4C7C-B609-E8467E3F2723}|Tarefa3.Application\\Tarefa3.Application.csproj|solutionrelative:tarefa3.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CD8310-A61C-4F03-A69B-5A4B85B8FFA3}|Tarefa3.Domain\\Tarefa3.Domain.csproj|c:\\users\\fezer\\onedrive\\ambiente de trabalho\\linguagem c\\tarefa3.api\\tarefa3.domain\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CD8310-A61C-4F03-A69B-5A4B85B8FFA3}|Tarefa3.Domain\\Tarefa3.Domain.csproj|solutionrelative:tarefa3.domain\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CD8310-A61C-4F03-A69B-5A4B85B8FFA3}|Tarefa3.Domain\\Tarefa3.Domain.csproj|c:\\users\\fezer\\onedrive\\ambiente de trabalho\\linguagem c\\tarefa3.api\\tarefa3.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CD8310-A61C-4F03-A69B-5A4B85B8FFA3}|Tarefa3.Domain\\Tarefa3.Domain.csproj|solutionrelative:tarefa3.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CD8310-A61C-4F03-A69B-5A4B85B8FFA3}|Tarefa3.Domain\\Tarefa3.Domain.csproj|c:\\users\\fezer\\onedrive\\ambiente de trabalho\\linguagem c\\tarefa3.api\\tarefa3.domain\\models\\personaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CD8310-A61C-4F03-A69B-5A4B85B8FFA3}|Tarefa3.Domain\\Tarefa3.Domain.csproj|solutionrelative:tarefa3.domain\\models\\personaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CD8310-A61C-4F03-A69B-5A4B85B8FFA3}|Tarefa3.Domain\\Tarefa3.Domain.csproj|c:\\users\\fezer\\onedrive\\ambiente de trabalho\\linguagem c\\tarefa3.api\\tarefa3.domain\\interfaces\\service\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CD8310-A61C-4F03-A69B-5A4B85B8FFA3}|Tarefa3.Domain\\Tarefa3.Domain.csproj|solutionrelative:tarefa3.domain\\interfaces\\service\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Tarefa3.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Api\\Program.cs",
+              "RelativeToolTip": "Tarefa3.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:20:35.049Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Application\\Program.cs",
+              "RelativeDocumentMoniker": "Tarefa3.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Application\\Program.cs",
+              "RelativeToolTip": "Tarefa3.Application\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:28:18.309Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Application\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "Tarefa3.Application\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Application\\Services\\PersonService.cs",
+              "RelativeToolTip": "Tarefa3.Application\\Services\\PersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:28:59.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Domain\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Tarefa3.Domain\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Domain\\Models\\Person.cs",
+              "RelativeToolTip": "Tarefa3.Domain\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:21:26.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Api\\Controllers\\NomeController.cs",
+              "RelativeDocumentMoniker": "Tarefa3.Api\\Controllers\\NomeController.cs",
+              "ToolTip": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Api\\Controllers\\NomeController.cs",
+              "RelativeToolTip": "Tarefa3.Api\\Controllers\\NomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:25:49.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "Tarefa3.Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Domain\\Program.cs",
+              "RelativeToolTip": "Tarefa3.Domain\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:20:10.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonAddress.cs",
+              "DocumentMoniker": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Domain\\Models\\PersonAddress.cs",
+              "RelativeDocumentMoniker": "Tarefa3.Domain\\Models\\PersonAddress.cs",
+              "ToolTip": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Domain\\Models\\PersonAddress.cs",
+              "RelativeToolTip": "Tarefa3.Domain\\Models\\PersonAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:21:51.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Domain\\Interfaces\\Service\\IPersonService.cs",
+              "RelativeDocumentMoniker": "Tarefa3.Domain\\Interfaces\\Service\\IPersonService.cs",
+              "ToolTip": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\Tarefa3.Api\\Tarefa3.Domain\\Interfaces\\Service\\IPersonService.cs",
+              "RelativeToolTip": "Tarefa3.Domain\\Interfaces\\Service\\IPersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:32:17.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
