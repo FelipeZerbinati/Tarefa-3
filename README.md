@@ -60,11 +60,3 @@ This project was developed using **C#** with the main goal of practicing **API d
 ## 🤝 Contributing
 
 Feel free to fork this repository and make your own modifications! If you have any suggestions or improvements, feel free to submit a pull request.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-🚀 Happy Coding! 🎉
